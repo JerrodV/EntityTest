@@ -9,6 +9,7 @@ namespace EntityTest.Helpers
 {
     class EntityHelper
     {
+        //I am sure we will need other helpers. I just needed this now for the extension method.
     }
 
     public static class EntityExtensions
